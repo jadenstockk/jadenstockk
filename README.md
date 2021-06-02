@@ -1,5 +1,4 @@
 <h2 align="center">Hey there! I'm Jaden<br></h2>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jadenstockk&label=Profile%20views&color=0e75b6&style=flat" alt="FluxedScript" /> </p>
 
 <h3 align="center">Langauages I know<br></h3>
