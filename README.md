@@ -53,9 +53,9 @@
 <br>
 <br>
 <a href="https://github.com/jadenstockk">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fluxedscript&show_icons=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadenstockk&show_icons=true&theme=dark" />
 </a>
 
 <a href="https://github.com/jadenstockk">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FluxedScript&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadenstockk&theme=dark" />
 </a>
