@@ -10,7 +10,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">
 </p>
 
-<h3 align="center">Frameworks & Technologies I utilize:<br></h3>
+<h3 align="center">Frameworks & Programs I use<br></h3>
 
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-23272A?style=flat&logo=node-dot-js">
