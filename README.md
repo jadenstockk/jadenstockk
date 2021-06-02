@@ -1,6 +1,6 @@
 <h2 align="center">Hey there! I'm Jaden<br></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FluxedScript&label=Profile%20views&color=0e75b6&style=flat" alt="FluxedScript" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jadenstockk&label=Profile%20views&color=0e75b6&style=flat" alt="FluxedScript" /> </p>
 
 <h3 align="center">Languages I know:<br></h3>
 
