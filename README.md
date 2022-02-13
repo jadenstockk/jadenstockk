@@ -1,13 +1,16 @@
 <h2 align="center">Hey there! I'm Jaden<br></h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jadenstockk&label=Profile%20views&color=0e75b6&style=flat" alt="FluxedScript" /> </p>
 
-<h3 align="center">Langauages I know<br></h3>
+<h3 align="center">Langauages I know or I'm learning<br></h3>
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">
-    <img alt="Python" src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-23272A?style=flat&logo=java">
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=postgresql">
+  <img alt="React" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=react">
 </p>
 
 <h3 align="center">Frameworks & Programs I use<br></h3>
@@ -24,23 +27,12 @@
 </p>
 
 <br>
-
-<h3 align="center">What I'm currently leaning<br></h3>
-
-<p align="center">
-
-  <img alt="Java" src="https://img.shields.io/badge/-Java-23272A?style=flat&logo=java">
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=postgresql">
-    <img alt="React" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=react">
-</p>
-
-<br>
-
-<br>
 <br>
 <a href="https://github.com/jadenstockk">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadenstockk&show_icons=true&theme=dark" />
 </a>
+
+<br>
 
 <a href="https://github.com/jadenstockk">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadenstockk&theme=dark" />
