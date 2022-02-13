@@ -7,6 +7,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">
+    <img alt="Python" src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
 </p>
 
 <h3 align="center">Frameworks & Programs I use<br></h3>
@@ -16,7 +17,6 @@
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-23272A?style=flat&logo=express">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-23272A?style=flat&logo=mongodb">
   <img alt="MongoDB" src="https://img.shields.io/badge/-Git-23272A?style=flat&logo=git">
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-23272A?style=flat&logo=windows">
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-23272A?style=flat&logo=ubuntu">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-23272A?style=flat&logo=github">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-23272A?style=flat&logo=visual-studio-code">
@@ -28,9 +28,10 @@
 <h3 align="center">What I'm currently leaning<br></h3>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
+
   <img alt="Java" src="https://img.shields.io/badge/-Java-23272A?style=flat&logo=java">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=postgresql">
+    <img alt="SQL" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=react">
 </p>
 
 <br>
