@@ -28,11 +28,7 @@
 
 <br>
 
-[![Jaden Stock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadenstockk)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/jadenstockk">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadenstockk&show_icons=true&theme=dark" />
-</a>
+[![Jaden Stock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadenstockk&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
