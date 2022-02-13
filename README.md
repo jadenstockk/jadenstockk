@@ -28,10 +28,8 @@
 
 <br>
 
-[![Jaden Stock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadenstockk&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Jaden Stock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadenstockk&show_icons=true&theme=dark)](https://github.com/jadenstockk)
 
 <br>
 
-<a href="https://github.com/jadenstockk">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadenstockk&theme=dark" />
-</a>
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadenstockk&theme=dark)](https://github.com/jadenstockk)
