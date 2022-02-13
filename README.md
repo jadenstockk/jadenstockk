@@ -13,7 +13,7 @@
 <h3 align="center">Frameworks & Programs I use<br></h3>
 
 <p align="center">
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-23272A?style=flat&logo=node-dot-js">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-23272A?style=flat&logo=node-js">
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-23272A?style=flat&logo=express">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-23272A?style=flat&logo=mongodb">
   <img alt="MongoDB" src="https://img.shields.io/badge/-Git-23272A?style=flat&logo=git">
