@@ -31,7 +31,7 @@
 
   <img alt="Java" src="https://img.shields.io/badge/-Java-23272A?style=flat&logo=java">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=postgresql">
-    <img alt="SQL" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=react">
+    <img alt="React" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=react">
 </p>
 
 <br>
