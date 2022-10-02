@@ -25,9 +25,3 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-23272A?style=flat&logo=visual-studio-code">
   <img alt="Pycharm" src="https://img.shields.io/badge/-PyCharm-23272A?style=flat&logo=pycharm">
 </p>
-
-<br>
-
-[![Jaden's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadenstockk&theme=dark&showicons=true&count_private=true)](https://github.com/jadenstockk)
-
-<br>
