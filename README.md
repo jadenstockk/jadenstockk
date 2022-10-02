@@ -28,6 +28,6 @@
 
 <br>
 
-[![Jaden Stock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadenstockk&show_icons=true&theme=dark)](https://github.com/jadenstockk)
+[![Jaden's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadenstockk)](https://github.com/jadenstockk)
 
 <br>
