@@ -31,5 +31,3 @@
 [![Jaden Stock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadenstockk&show_icons=true&theme=dark)](https://github.com/jadenstockk)
 
 <br>
-
-//[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadenstockk&theme=dark)](https://github.com/jadenstockk)
