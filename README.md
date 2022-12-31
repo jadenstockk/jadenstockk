@@ -1,5 +1,8 @@
 <h2 align="center">Hey there! I'm Jaden<br></h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jadenstockk&label=Profile%20views&color=0e75b6&style=flat" alt="Jaden Stock" /> </p>
+<a href="https://jadenstock.com/" align="center">Check out my website...</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadenstockk)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Langauages I know or I'm learning<br></h3>
 
