@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! I'm Jaden<br></h2>
+<h2 align="center">Hey there! I'm Jaden 👋<br></h2>
 <h3 align="center"><a href="https://jadenstock.com/" align="center">Check out my website...</a></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jadenstockk&label=Profile%20views&color=0e75b6&style=flat" alt="Jaden Stock" /> </p>
 
