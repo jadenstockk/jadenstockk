@@ -1,12 +1,12 @@
-<h2 align="center">Hey there! I'm Jaden 👋<br></h2>
-<h3 align="center"><a href="https://jadenstock.com/" align="center">Check out my website...</a></h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jadenstockk&label=Profile%20views&color=0e75b6&style=flat" alt="Jaden Stock" /> </p>
+<h2 align="left">Hey there! I'm Jaden 👋<br></h2>
+<h3 align="left"><a href="https://jadenstock.com/" align="center">Check out my website...</a></h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jadenstockk&label=Profile%20views&color=0e75b6&style=flat" alt="Jaden Stock" /> </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadenstockk)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center">Langauages I know or I'm learning<br></h3>
+<h3 align="left">Langauages I know or I'm learning<br></h3>
 
-<p align="center">
+<p align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">
@@ -18,7 +18,7 @@
 
 <h3 align="left">Frameworks & Programs I use<br></h3>
 
-<p align="center">
+<p align="left">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-23272A?style=flat&logo=nodejs">
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-23272A?style=flat&logo=express">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-23272A?style=flat&logo=mongodb">
