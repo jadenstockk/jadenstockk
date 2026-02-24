@@ -13,7 +13,7 @@ I'm a skilled **web developer** with 5+ years of experience working on websites 
 
 ---
 
-## 02. Skills
+## Skills
 
 ### Development
 - **Languages:** Javascript, Typescript, Java, Python
@@ -28,7 +28,7 @@ I'm a skilled **web developer** with 5+ years of experience working on websites 
 
 ---
 
-## 03. Projects
+## Projects
 
 ### [Coco Blue Website (2025)](https://cocoblue.co.za)
 A fully-featured e-commerce platform for a small business, built from the ground up.
