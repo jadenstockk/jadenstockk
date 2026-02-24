@@ -1,6 +1,5 @@
-# 👋 Hey there! I'm **Jaden Stock**
+# I build things for the web**
 
-**I build things for the web.**  
 I craft custom websites and digital solutions, blending creativity with clean, user-friendly experiences to bring your ideas to life.  
 Let’s connect!
 
@@ -8,13 +7,9 @@ Let’s connect!
 
 ---
 
-## 01. About Me
+## About Me
 
-I'm a skilled **full-stack developer** with 5+ years of experience in **JavaScript** and **TypeScript**, specializing in building dynamic, scalable web applications using **Next.js**, **React**, and **Node.js**. My backend expertise spans **PostgreSQL**, **MongoDB**, **TRPC**, and **Supabase**, with strong proficiency in Git-based version control.
-
-I’m passionate about **clean UI design**, **modern web standards**, and building user-centric experiences. I constantly challenge myself with new technologies and hands-on projects to stay sharp and inspired.
-
-Outside of tech, I’m deeply rooted in music. With over 12 years of **piano playing**, and a background in **music production** and **audio engineering**, my creativity is driven by both **code and composition**. This unique combo fuels everything I build.
+I'm a skilled **web developer** with 5+ years of experience working on websites and projects. Most of my experience surrounds designing and developing **web apps** for clients, helping them meet the goals of their business. I constantly challenge myself with new technologies and side projects to stay sharp and inspired. Unfortunately a lot of my work isn't public. I'm hoping to get the chance to work on more open-source projects in the coming years.
 
 ---
 
@@ -58,7 +53,7 @@ A custom site (and CMS) built for the non-profit Angel Paws Therapy Dogs, focuse
 
 ## Let's Get in Touch
 
-I'd love to hear about your project, collaborate, or just chat — even if it’s just to say hello!
+I'd love to hear about your project, collaborate, or just chat.
 
 **Email Me:** [jaden@jadenstock.com](mailto:jaden@jadenstock.com)  
 **Website:** [jadenstock.com](https://jadenstock.com)
