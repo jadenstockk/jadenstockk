@@ -1,4 +1,4 @@
-# I build things for the web**
+# I build things for the web
 
 I craft custom websites and digital solutions, blending creativity with clean, user-friendly experiences to bring your ideas to life.  
 Let’s connect!
