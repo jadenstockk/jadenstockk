@@ -60,4 +60,4 @@ I'd love to hear about your project, collaborate, or just chat.
 
 # Stats
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=5334&api_domain=hackatime.hackclub.com&theme=shadow_blue&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=5334&api_domain=hackatime.hackclub.com&theme=blue_navy&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
