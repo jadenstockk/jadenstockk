@@ -7,7 +7,7 @@ Let’s connect!
 
 ---
 
-# Stats
+## Stats
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=5334&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
