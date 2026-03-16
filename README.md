@@ -1,5 +1,3 @@
-![HackTime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=5334&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
-
 # I build things for the web
 
 I craft custom websites and digital solutions, blending creativity with clean, user-friendly experiences to bring your ideas to life.  
@@ -59,3 +57,7 @@ I'd love to hear about your project, collaborate, or just chat.
 
 **Email Me:** [jaden@jadenstock.com](mailto:jaden@jadenstock.com)  
 **Website:** [jadenstock.com](https://jadenstock.com)
+
+# Stats
+
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=5334&api_domain=hackatime.hackclub.com&theme=shadow_blue&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
