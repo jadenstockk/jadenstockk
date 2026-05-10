@@ -37,21 +37,24 @@ I'm a skilled **web developer** with 5+ years of experience working on websites 
 ### [Coco Blue Website (2025)](https://cocoblue.co.za)
 A fully-featured e-commerce platform for a small business, built from the ground up.
 
-**Tech:** Next.js, Postgres, TRPC, TailwindCSS
+---
+
+### [Ticket Brew (2026)](https://ticketbrew.co.za)
+A local South African event ticketing startup aimed at making selling events more accessible and affordable.
 
 ---
 
 ### [QR Quest (2024)](https://qr-quest.jadenstock.com)
 A web app for creating interactive scavenger hunts with QR codes.
 
-**Tech:** Next.js, TailwindCSS, Drizzle ORM, Postgres
+**Tech:** Next.js, Postgres
 
 ---
 
 ### [Angel Paws Website (2023)](https://angelpawstherapydogs.org.za)
 A custom site (and CMS) built for the non-profit Angel Paws Therapy Dogs, focused on accessibility and simplicity.
 
-**Tech:** Next.js, TailwindCSS, Supabase
+**Tech:** Next.js, Supabase
 
 ---
 
