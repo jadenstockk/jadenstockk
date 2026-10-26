@@ -17,18 +17,10 @@ I'm a skilled **web developer** with 5+ years of experience working on websites 
 
 ---
 
-## Skills
+## I'm currently working on...
 
-### Development
-- **Languages:** Javascript, Typescript, Java, Python
-- **Frontend:** Next.js, React, TailwindCSS, HTML & CSS
-- **Backend:** Node.js, Express.js, TRPC, Drizzle ORM
-- **Databases:** PostgreSQL, MongoDB
-- **My Tools:** Figma, VS Code, IntelliJ IDEA, Insomnia, GitHub & GitLab
-
-### Creative & Media
-- **Music:** Grade 7 Trinity Piano, Music Theory (school level), Production (Logic Pro X, Ableton Live)
-- **Video Editing:** Adobe Premiere Pro & After Effects, DaVinci Resolve
+### [Puddle](https://puddle.co.za)
+A South African e-commerce software ecosystem that makes digital commerce more accessible to South African store owners and developers.
 
 ---
 
@@ -55,6 +47,21 @@ A web app for creating interactive scavenger hunts with QR codes.
 A custom site (and CMS) built for the non-profit Angel Paws Therapy Dogs, focused on accessibility and simplicity.
 
 **Tech:** Next.js, Supabase
+
+---
+
+## Skills
+
+### Development
+- **Languages:** Javascript, Typescript, Java, Python
+- **Frontend:** Next.js, React, TailwindCSS, HTML & CSS
+- **Backend:** Node.js, Express.js, TRPC, Drizzle ORM
+- **Databases:** PostgreSQL, MongoDB
+- **My Tools:** Figma, VS Code, IntelliJ IDEA, Insomnia, GitHub & GitLab
+
+### Creative & Media
+- **Music:** Grade 7 Trinity Piano, Music Theory (school level), Production (Logic Pro X, Ableton Live)
+- **Video Editing:** Adobe Premiere Pro & After Effects, DaVinci Resolve
 
 ---
 
